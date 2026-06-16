@@ -29,6 +29,29 @@ An interactive Power BI dashboard analyzing **279,712 Airbnb listings** across *
 
 ---
 
+## 📸 Dashboard Preview
+
+### 1. Overview
+<img src="Images/Overview.png" alt="Overview Dashboard" width="100%"/>
+
+> 📌 KPI cards showing 279,712 listings across 10 cities · New listings trend from 2008–2021 by room type
+
+---
+
+### 2. Market Share by City
+<img src="Images/Market_Share.png" alt="Market Share by City" width="100%"/>
+
+> 📌 Superhost vs Non-Superhost listings · Pricing breakdown by room type · Paris leads with most listings & reviews
+
+---
+
+### 3. Ratings & Seasonality
+<img src="Images/Rating.png" alt="Ratings and Seasonality" width="100%"/>
+
+> 📌 City-level rating table · Avg rating bar chart · Monthly seasonality stream chart
+
+---
+
 ## 📊 Dashboard Pages
 
 ### 1. Overview
