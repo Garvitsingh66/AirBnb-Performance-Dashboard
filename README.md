@@ -39,7 +39,7 @@ An interactive Power BI dashboard analyzing **279,712 Airbnb listings** across *
 ---
 
 ### 2. Market Share by City
-<img src="Images/Market_Share.png" alt="Market Share" width="100%"/>
+<img src="Images/Market Share.png" alt="Market Share" width="100%"/>
 
 > 📌 Superhost vs Non-Superhost listings · Pricing breakdown by room type · Paris leads with most listings & reviews
 
